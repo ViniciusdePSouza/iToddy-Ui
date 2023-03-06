@@ -1,0 +1,2 @@
+import{j as o,a as s}from"./jsx-runtime-b43840ed.js";import{C as e,B as t,T as a}from"./index-92e00899.js";import"./index-dc7db0f7.js";import"./iframe-9d2e85b5.js";import"./index-f79362a7.js";const n={title:"Form/Checkbox",component:e,args:{},decorators:[r=>o(t,{as:"label",css:{display:"flex",flexDirection:"row",gap:"$2"},children:[r(),s(a,{size:"sm",children:"Accept terms of use"})]})]},l={},d=["Primary"];export{l as Primary,d as __namedExportsOrder,n as default};
+//# sourceMappingURL=Chackbox.stories-ec008b5d.js.map
